@@ -3,6 +3,6 @@ class Hello{
         Syatem.out.println("Hello world!!!");
         int a=10;
         int b=5;
-        System.out.println("Result:"+(a+b));
+        System.out.println("Result:"+(a-b));
     }
 }
